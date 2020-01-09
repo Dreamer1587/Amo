@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="123494" started-at="2020-01-09T17:22:22Z" finished-at="2020-01-09T17:24:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="123494" started-at="2020-01-09T17:22:22Z" finished-at="2020-01-09T17:24:25Z">
+      <class name="com.amazon.Amazon">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.amazon.Amazon@4c70fda8]" name="Login" duration-ms="80829" started-at="2020-01-09T22:52:22Z" finished-at="2020-01-09T22:53:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="cancel_cod()[pri:0, instance:com.amazon.Amazon@4c70fda8]" name="cancel_cod" duration-ms="42629" started-at="2020-01-09T22:53:43Z" finished-at="2020-01-09T22:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancel_cod -->
+      </class> <!-- com.amazon.Amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
